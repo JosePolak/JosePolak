@@ -52,5 +52,6 @@ Atualmente estudando:
 
 ## 📫 Contato
 
+- LinkedIn: https://www.linkedin.com/in/josepolak/
 - GitHub: https://github.com/JosePolak  
 - Currículo: https://josepolak.github.io
