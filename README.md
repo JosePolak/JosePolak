@@ -1,7 +1,7 @@
 # José Polak
 
 🎯 Desenvolvedor Python em formação  
-📍 Brasil | Remoto  
+📍 São Paulo | Remoto | Híbrido | Presencial
 🔗 Currículo online: https://josepolak.github.io
 
 ---
@@ -28,9 +28,13 @@ Atualmente, estou construindo projetos próprios para consolidar fundamentos e b
 
 ## 📂 Projetos em destaque
 
-🔹 **Python Automação**  
+🔹 **Automação em Python**  
 Scripts para automação de tarefas e manipulação de dados.  
 👉 https://github.com/JosePolak/python_automacao
+
+🔹 **Gerador de Senhas**  
+Gerador de senhas desenvolvido para prática em HMTL e CSS (com um pouco de JS)  
+👉 https://github.com/JosePolak/gerador_senhas
 
 🔹 **Currículo Online (GitHub Pages)**  
 CV profissional em HTML e CSS, responsivo.  
