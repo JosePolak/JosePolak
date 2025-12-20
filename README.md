@@ -28,6 +28,10 @@ Atualmente, estou construindo projetos próprios para consolidar fundamentos e b
 
 ## 📂 Projetos em destaque
 
+🔹 **Automação de Relatório de Vendas**  
+Projeto de portfólio que integra leitura de arquivos CSV, persistência em banco SQLite, consultas SQL com JOIN e agregações e visualização dos resultados em uma aplicação web simples usando Flask.  
+👉 https://github.com/JosePolak/automacao_relatorio_vendas
+
 🔹 **Automação em Python**  
 Scripts para automação de tarefas e manipulação de dados.  
 👉 https://github.com/JosePolak/python_automacao
