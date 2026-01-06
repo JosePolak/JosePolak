@@ -50,9 +50,9 @@ https://registro-despesas-md0c.onrender.com
 ---
 
 ### 📌 Relatório de vendas — Flask + SQlite
-Aplicação web desenvolvida em Flask para gerenciamento e visualização de vendas.
-Os dados são persistidos em SQLite e expostos tanto via interface web quanto por uma rota de API em JSON,
-consolidando fundamentos de backend, banco de dados e integração entre camadas.
+Aplicação web desenvolvida em Flask para gerenciamento e visualização de vendas, com persistência 
+de dados em SQLite e exposição das informações por meio de interface web e rota de API em JSON, 
+aplicando fundamentos de backend e integração com banco de dados.
 
 🔗 **Repositório:**  
 https://github.com/JosePolak/relatorio_vendas_flask
@@ -90,5 +90,3 @@ Atuar como **desenvolvedor backend Python**, contribuindo com:
 ---
 
 💡 *Este perfil reflete um aprendizado em construção, com projetos reais e foco em evolução contínua.*
-
----
