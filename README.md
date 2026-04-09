@@ -31,6 +31,22 @@ Meu objetivo é atuar como **desenvolvedor backend Python**, com projetos claros
 
 ## 🧩 Projetos em Destaque
 
+### 📌 Canivete Multiferramentas — Flask + SQLAlchemy + API financeira
+Utilitário web para conversão de moedas em tempo real com histórico persistente. Construído com Flask, SQLAlchemy, SQLite, Jinja2 (entre outras tecnologias), essa é a primeira ferramenta do canivete. As outras virão em breve.
+
+**Funcionalidades:**
+- Cotação de moedas em tempo real
+- Conversão de valores
+- Persistência de histórico em SQLite
+- Interface responsiva
+- Deploy em produção no Render
+
+🔗 **Repositório:**  
+https://github.com/JosePolak/canivete
+
+🌐 **Aplicação online:**  
+https://canivete-caq8.onrender.com
+
 ### 📌 Registro de Despesas — Flask + SQLite
 Aplicação web para registro e visualização de despesas, desenvolvida com foco em backend e deploy.
 
@@ -46,16 +62,6 @@ https://github.com/JosePolak/registro_despesas
 
 🌐 **Aplicação online:**  
 https://registro-despesas-md0c.onrender.com
-
----
-
-### 📌 Relatório de vendas — Flask + SQlite
-Aplicação web desenvolvida em Flask para gerenciamento e visualização de vendas, com persistência 
-de dados em SQLite e exposição das informações por meio de interface web e rota de API em JSON, 
-aplicando fundamentos de backend e integração com banco de dados.
-
-🔗 **Repositório:**  
-https://github.com/JosePolak/relatorio_vendas_flask
 
 ---
 
