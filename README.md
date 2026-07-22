@@ -1,6 +1,6 @@
 # José Polak
 
-🎯 Desenvolvedor Python com foco em backend  
+🎯 Desenvolvedor Python, estudante de Redes e Cibersegurança  
 📍 São Paulo | Remoto | Híbrido | Presencial  
 🔗 Currículo online: https://josepolak.github.io
 
@@ -8,16 +8,17 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor em formação com foco em **Python e backend**, atualmente em transição de carreira para a área de tecnologia.
-
-Venho construindo minha base de forma **prática e progressiva**, trabalhando com automação, manipulação de dados, bancos de dados relacionais e desenvolvimento web com Flask.
-
-Meu objetivo é atuar como **desenvolvedor backend Python**, com projetos claros, funcionais e bem documentados.
+Sou estudante de tecnologia em transição de carreira, com foco em Redes e Cibersegurança e experiência prévia em Python/backend.
+Curso Redes de Computadores e a trilha Analista de Cibersegurança Jr. (Cisco NetAcad), estudando protocolos de rede, hardening de sistemas e segurança de ambientes digitais. Em paralelo, mantenho minha base prática em automação, bancos de dados relacionais e desenvolvimento web com Flask.
+Meu objetivo é atuar na área de Redes/Cibersegurança, unindo essa formação à minha experiência como desenvolvedor.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
+- **Linux**
+- **Wireshark / Nmap**
+- **Cisco Packet Tracer**
 - **Python**
 - **Flask**
 - **SQLite**
@@ -68,22 +69,21 @@ https://registro-despesas-md0c.onrender.com
 ## 📚 Em aprendizado contínuo
 
 Atualmente aprofundando conhecimentos em:
-
-- Flask (Blueprints, organização de projetos)
-- SQLAlchemy
-- Criação de APIs REST
-- Autenticação e controle de acesso
-- Boas práticas de backend e deploy
+- Protocolos de rede (TCP/IP, DNS, DHCP)
+- Hardening de sistemas
+- Segurança de redes e controle de acesso
+- Fundamentos de resposta a incidentes
+- Flask e APIs REST (mantendo base backend)
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Atuar como **desenvolvedor backend Python**, contribuindo com:
-- automação de processos
-- aplicações web
-- integração com bancos de dados
-- APIs e serviços backend
+Atuar na área de Redes e Cibersegurança, contribuindo com:
+- hardening e segurança de sistemas
+- monitoramento e resposta a incidentes
+- protocolos e infraestrutura de rede
+- automação e integração com backend (Python)
 
 ---
 
