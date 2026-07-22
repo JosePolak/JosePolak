@@ -9,6 +9,7 @@
 ## 👋 Sobre mim
 
 Sou estudante de tecnologia em transição de carreira, com foco em Redes e Cibersegurança e experiência prévia em Python/backend.
+
 Curso Redes de Computadores e a trilha Analista de Cibersegurança Jr. (Cisco NetAcad), estudando protocolos de rede, hardening de sistemas e segurança de ambientes digitais. Em paralelo, mantenho minha base prática em automação, bancos de dados relacionais e desenvolvimento web com Flask.
 Meu objetivo é atuar na área de Redes/Cibersegurança, unindo essa formação à minha experiência como desenvolvedor.
 
